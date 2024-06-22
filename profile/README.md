@@ -1,4 +1,8 @@
-## Hi there 👋
+# Clean Onion Architecture
+
+CleanOnionArchitecture is a project structure that combines modern software development principles and architectural patterns. This project is specifically built on the principles of clean code, maintainability and creating independent components. 
+
+CleanOnionArchitecture aims to develop modular and testable applications by using Domain-Driven Design (DDD), Dependency Injection (DI) and SOLID principles together.
 
 <!--
 
